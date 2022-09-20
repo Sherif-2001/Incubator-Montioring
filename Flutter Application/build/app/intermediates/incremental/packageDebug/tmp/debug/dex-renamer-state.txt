@@ -1,0 +1,4 @@
+#Tue May 10 18:33:52 EET 2022
+base.0=D\:\\Engineering\\Engineering 2 - term 2\\Bio-Measurements 2\\Midterm Project\\Measurements Project\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
